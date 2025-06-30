@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kurra Saikiran!
+# 👋 Hi there, I'm Kurra Saikiran
 
 🚀 **About Me**  
 I'm a Computer Science undergraduate at Sreyas Institute of Engineering and Technology, Hyderabad. I'm passionate about solving real-world problems through full-stack web development and AI-powered applications. I enjoy turning ideas into interactive and intelligent software products that deliver value and impact.
