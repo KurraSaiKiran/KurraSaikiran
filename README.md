@@ -1,18 +1,18 @@
-# Kurra Sai Kiran
-**AI/ML Engineer | Generative AI Specialist | Computer Vision Developer**
+# Kurra Sai Kiran  
+**AI + Frontend Engineer | Generative AI Applications | Intelligent Web Systems**
 
 📍 Hyderabad, India  
 📧 saikiranmlw@gmail.com  
 📱 +91-8639580649  
-🔗 [LinkedIn](https://linkedin.com/in/kurrasaikiran) | [GitHub](https://github.com/kurrasaikiran) | [Portfolio](https://sai-portfolio-hazel.vercel.app/)
+🔗 [LinkedIn](https://linkedin.com/in/kurrasaikiran) | [GitHub](https://github.com/KurraSaiKiran) | [Portfolio](https://sai-portfolio-hazel.vercel.app/)
 
 ---
 
 ## 💡 Professional Summary
 
-Final-year B.Tech Computer Science (Data Science) student specializing in **Generative AI**, **Multi-Agent Systems**, and **Computer Vision**. Proven track record building production-ready AI applications with measurable impact (70% research time reduction, 82% prediction accuracy). Expert in LLM orchestration, RAG architectures, and real-time CV pipelines. Proficient in end-to-end ML lifecycle from prototyping to deployment using Python, TensorFlow, and cloud platforms.
+Final-year B.Tech Computer Science student specializing in **AI-powered web applications** that combine **Generative AI, Machine Learning, and modern Frontend development**. Experienced in building end-to-end products where intelligent AI systems are integrated into responsive, user-friendly interfaces. Strong background in Python-based AI development, REST APIs, and frontend frameworks like React, with hands-on experience deploying real-time AI solutions to production. Passionate about building scalable, impactful applications at the intersection of **AI + UI/UX**.
 
-**Core Competencies:** Multi-Agent LLM Systems • Computer Vision • Prompt Engineering • RAG Architecture • MLOps • Real-time AI Applications
+**Core Competencies:** AI-Powered Web Apps • Generative AI • Frontend Development (React) • RAG Systems • API Integration • Full-Stack AI Solutions
 
 ---
 
@@ -27,116 +27,92 @@ Final-year B.Tech Computer Science (Data Science) student specializing in **Gene
 ## 🛠️ Technical Expertise
 
 ### AI & Machine Learning
-- **Generative AI:** LLMs, Multi-Agent Systems, RAG Architecture, Prompt Engineering, LLM Observability
-- **Computer Vision:** OpenCV, MediaPipe, Facial Landmark Detection, Real-time Processing (<50ms latency)
-- **ML Frameworks:** TensorFlow, Scikit-learn, Random Forest, Gradient Boosting
-- **NLP & LLM Tools:** LangChain, OpenAI API, Groq API, HuggingFace API, Tool-Calling Patterns
+- **Generative AI:** LLMs, RAG Architecture, Prompt Engineering, Tool Calling
+- **Machine Learning:** Model Training, Feature Engineering, Prediction Systems
+- **Computer Vision:** OpenCV, MediaPipe, Real-time Vision Pipelines
+- **ML Libraries:** TensorFlow, Scikit-learn
 
-### Programming & Data Science
-- **Languages:** Python (Primary), R, JavaScript, SQL
-- **Data Science Stack:** NumPy, Pandas, Matplotlib, Seaborn, Statistical Analysis
-- **Analysis:** Hypothesis Testing, Regression, Feature Engineering, Temporal Pattern Analysis
+### Frontend & Web Development
+- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+- **UI/UX:** Responsive Design, Component-Based Architecture, State Management
+- **Visualization:** Interactive dashboards, charts, real-time data rendering
 
-### Development & Deployment
-- **Web Frameworks:** Flask, Streamlit, FastAPI, React.js, Node.js, Express.js
+### Backend, APIs & Deployment
+- **Backend Frameworks:** Flask, FastAPI, Node.js, Express.js
 - **Databases:** MongoDB, SQL, Supabase, SQLite
-- **DevOps & Cloud:** Git, Docker, Render (PaaS), REST APIs, JWT Authentication
-- **API Integration:** Serper API, GitHub API, Kaggle API, ReportLab
+- **APIs & Auth:** REST APIs, JWT Authentication, Third-party API integration
+- **DevOps:** Git, Docker (Basics), Render, Cloud Deployment
 
 ---
 
-## 🚀 AI/ML Projects
+## 🚀 AI + Frontend Projects
 
-### Multi-Agent AI Market Research System | Sep 2025
-**Tech Stack:** Python, Generative AI, Multi-Agent Systems, Streamlit, REST APIs, ReportLab  
+### Multi-Agent AI Market Research Platform | Sep 2025  
+**Tech Stack:** Python, Generative AI, Streamlit, REST APIs, React (UI concepts), ReportLab
 
-- Architected **production-ready multi-agent GenAI system** with 4 specialized LLM agents for automated industry research, AI use case generation, dataset discovery, and intelligent report synthesis
-- Implemented **real-time API orchestration** integrating Serper (web search), GitHub, Kaggle, and HuggingFace APIs with intelligent prompt engineering for context-aware responses
-- Designed interactive Streamlit dashboard with workflow visualization, achieving seamless multi-format export (PDF/JSON/Markdown) and **reducing research time by 70%**
-- Applied **RAG patterns and tool-calling mechanisms** for dynamic data retrieval and structured information extraction
-
-**Key Achievements:**
-- 70% reduction in research time
-- 4 specialized AI agents with coordinated workflows
-- Multi-format export capabilities (PDF/JSON/Markdown)
+- Built a **full-stack AI web platform** that automates market research using coordinated LLM agents  
+- Designed **interactive UI dashboards** for controlling AI workflows and visualizing structured research outputs  
+- Integrated real-time APIs (Serper, GitHub, Kaggle) with frontend-driven user inputs  
+- Reduced manual research effort by **70%** through intelligent automation  
 
 ---
 
-### Eye-Controlled Shooter Game | Aug 2025
-**Tech Stack:** Python, Computer Vision, OpenCV, MediaPipe, Pygame  
+### Eye-Controlled Interactive Game (AI + UI) | Aug 2025  
+**Tech Stack:** Python, OpenCV, MediaPipe, Pygame
 
-- Developed **accessibility-focused real-time CV application** enabling hands-free gameplay through gaze-based interaction using facial landmark detection and iris tracking
-- Implemented **low-latency eye movement recognition** with MediaPipe Face Mesh (468 landmarks) achieving **<50ms response time** for smooth user experience
-- Engineered **calibration-free system** with adaptive thresholding for eye aspect ratio (EAR) detection, enabling blink-to-shoot mechanics with **95%+ accuracy**
-- Demonstrated practical application of real-time CV pipelines by integrating frame processing, coordinate mapping, and game state management
-
-**Key Achievements:**
-- <50ms latency for real-time interaction
-- 95%+ accuracy in blink detection
-- Zero-calibration adaptive system
+- Developed a **real-time AI-driven interactive application** combining computer vision with on-screen UI controls  
+- Implemented gaze-based input mapped to visual UI elements for hands-free interaction  
+- Achieved **<50ms latency**, focusing on responsiveness and user experience  
 
 ---
 
-### Airline No-Show Prediction System | Oct 2024
-**Tech Stack:** Python, Machine Learning, Scikit-learn, Pandas, SQL, Flask  
+### Airline No-Show Prediction Web App | Oct 2024  
+**Tech Stack:** Python, ML, Flask, SQL, HTML, CSS, JavaScript
 
-- Built **end-to-end ML prediction system** achieving **82% accuracy** in passenger no-show prediction using Random Forest and Gradient Boosting models on 50,000+ booking records
-- Performed comprehensive **feature engineering and SQL-based data extraction**, handling missing values, categorical encoding, and temporal pattern analysis to improve model performance by **15%**
-- Deployed **Flask REST API on Render** with real-time inference capabilities, enabling operational integration for airline revenue optimization
-- Explored **LLM-augmented analytics** for generating automated insights and actionable recommendations from prediction outputs
-
-**Key Achievements:**
-- 82% prediction accuracy
-- 15% model performance improvement through feature engineering
-- Real-time API deployment with production-ready inference
+- Built an **end-to-end AI-powered web application** for predicting airline passenger no-shows  
+- Designed frontend interfaces to input booking data and visualize predictions  
+- Deployed ML models via REST APIs with **82% prediction accuracy**  
 
 ---
 
-### AI Chat Bot Application | Nov 2024
-**Tech Stack:** Python, Flask, NLP, TensorFlow, SQLite
+### AI Chatbot Web Application | Nov 2024  
+**Tech Stack:** Python, Flask, TensorFlow, HTML, CSS, JavaScript
 
-- Implemented **NLP and ML techniques** to enable smart, natural user interactions with continuous learning capabilities
-- Deployed via Flask with lightweight API integration for seamless conversation management
-- Improved response relevance over time using **TensorFlow-based learning model**
+- Developed a **web-based AI chatbot** with an interactive frontend interface  
+- Focused on smooth UI interaction and backend API communication  
+- Improved response relevance through learning-based enhancements  
 
 ---
 
 ## 🏆 Certifications
 
-- **AI Engineer Certificate** – OneRoadmap (Apr 2025) 
-- **Frontend Engineer Certificate** – OneRoadmap (Dec 2024)
-- **Python Programming Certificate** – Cisco (Jun 2024)
-- **DBMS Certificate** – Scaler (Dec 2023) 
+- **AI Engineer Certificate** – OneRoadmap (Apr 2025)  
+- **Frontend Engineer Certificate** – OneRoadmap (Dec 2024)  
+- **Python Programming Certificate** – Cisco (Jun 2024)  
+- **DBMS Certificate** – Scaler (Dec 2023)
 
 ---
 
 ## 🎖️ Achievements
 
-- 🥈 **Top 2 Position** – Inter-college Hackathon
-- 💼 **MERN Stack Intern** – Selected for startup internship program
-- 🤖 **AI Agent Development** – Built multiple production-grade multi-agent systems
-- 📊 **Research Impact** – 70% time reduction in automated research workflows
+- 🥈 Top 2 – Inter-college Hackathon  
+- 💼 MERN Stack Intern (Startup Program)  
+- 🤖 Built multiple AI-powered web applications with production deployments  
+- 📊 Delivered AI solutions with measurable real-world impact  
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced RAG architectures and vector databases
-- LLM fine-tuning and model optimization techniques
-- Serverless AI deployment and edge computing
-- Computer vision for autonomous systems
-- Multi-modal AI applications (vision + language)
+- AI-integrated frontend architectures  
+- Advanced RAG systems for web applications  
+- Performance optimization for AI-powered UIs  
+- Full-stack GenAI products and SaaS platforms  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-I'm actively seeking opportunities in **AI/ML Engineering, Generative AI, and Computer Vision** roles where I can contribute to building innovative AI solutions.
+Actively seeking opportunities in **AI + Frontend / Full-Stack AI Engineer** roles where I can build intelligent, user-centric applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kurra-saikiran-66258b298)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/KurraSaiKiran)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Kurra_Saikiran/)
-
----
-
-💡 *"Building intelligent systems that bridge the gap between cutting-edge AI research and real-world impact."*
+💡 *“Building intelligent web experiences where powerful AI meets clean, intuitive frontend design.”*
